@@ -6,9 +6,13 @@ This codebase provides an implementation for building of a Contextual message pa
 Requirements 
 --------------
 numpy
+
 tensorflow 2.9.0
+
 megnet
+
 protobuf 3.20.1
+
 tensorflow-addons
 
 
